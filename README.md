@@ -17,11 +17,10 @@
 
 ### About
 
-I'm a Software Engineering student focused on backend development, database design, and systems-level programming. I build projects to understand how things work under the hood — not just to use tools, but to know why they work.
+I'm a Software Engineering student focused on backend development, database design, and systems-level programming. I build projects to understand how things work under the hood not just to use tools, but to know why they work.
 
 Currently expanding into full-stack web development with HTML, CSS, JavaScript, PHP, and Bootstrap.
 
-Open to internship opportunities for **Summer 2026** — Lahore or remote.
 
 ---
 
