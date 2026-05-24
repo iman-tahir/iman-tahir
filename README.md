@@ -1,6 +1,6 @@
 <h2 align="center">Eman Tahir</h2>
 <p align="center">
-  Software Engineering Student &nbsp;·&nbsp; COMSATS University, Sahiwal &nbsp;·&nbsp; CGPA: 3.74
+  Software Engineering Student &nbsp;·&nbsp; COMSATS University, Sahiwal 
 </p>
 
 <p align="center">
