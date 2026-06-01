@@ -31,7 +31,7 @@ Currently expanding into full-stack web development with HTML, CSS, JavaScript, 
 | [Secure Git-Lite](https://github.com/iman-tahir/Secure-Git-Lite) | Terminal-based version control system built from scratch | C++, DSA, Hashing, AES, SHA |
 | [CYANITY](https://github.com/iman-tahir/OnlineRetailSystem) | Desktop retail management system with normalized SQL Server database | Java Swing, SQL Server, JDBC |
 | [ReviewGuard](https://github.com/iman-tahir/ReviewGuard) | Fake review detector using NLP and machine learning | Python, Scikit-learn, Streamlit |
-| PayPilot *(In Progress)* | Full-stack fintech web app for payment tracking | HTML, CSS, JS, PHP, MySQL |
+| [PayPilot](https://github.com/Huma-Ijaz/PayPilot) | Full-stack fintech web app for payment tracking | HTML, CSS, JS, PHP, MySQL |
 
 ---
 
