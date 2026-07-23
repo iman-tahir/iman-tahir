@@ -61,6 +61,4 @@ Currently expanding into full-stack web development with HTML, CSS, JavaScript, 
 
 ---
 
-### Certifications
 
-**HackerRank Java (Basic)** — [View Certificate](https://www.hackerrank.com/certificates/d98ebf856e32) · *Issued August 2025*
