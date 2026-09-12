@@ -82,11 +82,6 @@
 
 <div align="center">
 
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-tahir707)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imantahir707@gmail.com)
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1b263b,50:415a77,100:778da9&height=95&section=footer" width="100%"/>
 
 </div>
